@@ -10,7 +10,7 @@
 
 ​	[page2.md](./page2.md) 
 
-####  My Favourite movie star
+####  quantum mechanics
 
 ![see?](./test.jpg)
 
